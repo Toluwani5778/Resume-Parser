@@ -4,3 +4,4 @@ functions
 PyPDF2
 nltk
 spacy
+python -m spacy download en_core_web_sm
